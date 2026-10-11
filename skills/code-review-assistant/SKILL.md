@@ -1,3 +1,8 @@
+---
+name: code-review-assistant
+description: Review project code, scripts, configuration, or documentation changes for correctness, clarity, maintainability, and obvious risks before merge.
+---
+
 # Code Review Assistant Skill
 
 ## Purpose
