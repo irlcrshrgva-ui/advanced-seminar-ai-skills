@@ -1,3 +1,8 @@
+---
+name: documentation-assistant
+description: Create, improve, and review project documentation while preserving technical meaning and making the result easy to understand.
+---
+
 # Documentation Assistant Skill
 
 ## Purpose
